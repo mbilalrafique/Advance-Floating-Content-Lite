@@ -12,7 +12,7 @@ Advanced Floating Content Plugin is an all in one plugin with easy to use contro
 
 == Description ==
 
-<a href="http://codecanyon.net/item/advanced-floating-content/9945856?ref=CodeTides">Online Demo</a>
+<a href='http://codecanyon.net/item/advanced-floating-content/9945856?ref=CodeTides'>Online Demo</a>
 
 Advanced Floating Content plugin is made to use in all in one's purpose and it's not difficult to use, interface try to cover everything in single plugin to assure you won't try any other plugins. whether you need to demonstrate a sticky footer notice or sticky header warning, feature advancements which shall float into site, you need to impart your social networking connections, a commercial picture or altered HTML coasting content, everything our plugin doing for you.
 
